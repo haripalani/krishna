@@ -115,7 +115,8 @@ p {
   z-index: 5;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
+  padding-bottom: 4rem;
   pointer-events: none;
   opacity: 0;
   visibility: hidden;
