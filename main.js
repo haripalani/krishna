@@ -1,5 +1,5 @@
 // --- CONFIGURATION ---
-const INPUT_IMAGE = './krishna.png';
+const INPUT_IMAGE = '/krishna.png';
 const CANVAS_W = 1920;
 const CANVAS_H = 1080;
 const FPS = 60;
